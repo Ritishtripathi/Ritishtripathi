@@ -1,4 +1,8 @@
-name: Generate Snake
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+    name: Generate Snake
 
 on:
   schedule:
