@@ -78,10 +78,6 @@
 
 ---
 
-## 🚀 Other Expertise
-`MERN Stack` • `SEO Optimization` • `Digital Marketing` • `Performance Tuning` • `Technical Mentoring`
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
