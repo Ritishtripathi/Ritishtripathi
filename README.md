@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ritish Tripathi</h1>
-<h3 align="center">Senior Web Developer | Full-Stack Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Senior+Web+Developer;Full-Stack+Engineer;Laravel+%7C+MERN+Specialist;Building+Scalable+Web+Applications;AI+Powered+Development" />
+</p>
 
 ---
 
 ## 💫 About Me
 
-🚀 4+ years of experience building scalable, secure & high-performance web applications.  
-💻 Specialized in Laravel, MERN Stack & modern frontend architectures.  
-🔐 Strong expertise in Authentication Systems, REST APIs, Payment Gateway Integrations & Database Design.  
-📦 Delivered 50+ production-ready projects including eCommerce, eLearning, Job Portals & Enterprise Dashboards.  
-🤖 Leveraging Generative AI & LLM tools to enhance productivity and system design.
+🚀 4+ years of experience building scalable, secure & high-performance web applications  
+💻 Specialized in Laravel, MERN Stack & Modern Frontend Architectures  
+🔐 Expert in Authentication, REST APIs & Payment Integrations  
+📦 Delivered 50+ production-ready projects  
+🤖 Leveraging Generative AI & LLM tools for smarter development  
 
 📍 Lucknow, India  
-📫 **Email:** erritishtripathi@gmail.com  
-🌐 **Portfolio:** https://linktr.ee/erritish  
+📧 erritishtripathi@gmail.com  
+🌐 https://linktr.ee/erritish  
 
 ---
 
@@ -23,30 +26,56 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### ⚙ Frameworks & Libraries
+### ⚙ Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🎨 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritishtripathi&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritishtripathi&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritishtripathi&theme=tokyonight" height="160"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritishtripathi&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritishtripathi&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ritishtripathi&theme=tokyonight&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Ritishtripathi/Ritishtripathi/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎯 Currently Focused On
+
+- 🔥 Advanced System Architecture  
+- ⚡ Performance Optimization  
+- 🤖 AI-integrated Applications  
+- 🏗 Scalable SaaS Platforms  
+
+---
+
+## 🤝 Let's Connect
+
+💼 Open for Senior Developer Roles  
+📧 erritishtripathi@gmail.com  
+🌐 https://linktr.ee/erritish  
